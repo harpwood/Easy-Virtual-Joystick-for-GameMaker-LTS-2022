@@ -1,4 +1,5 @@
-# Easy-Virtual-Joystick-for-GameMaker-LTS-2022
+# Easy Virtual Joystick 
+## for GameMaker LTS 2022
 Introducing the Easy Virtual Joystick for GameMaker LTS 2022! This versatile and intuitive joystick is the perfect addition to your GameMaker toolkit. With customizable settings and easy integration, it's the one and only virtual joystick that you'll ever need, guaranteed. Whether you're making a platformer, action game, or any other type of mobile game that requires smooth and responsive joystick controls, the Easy Virtual Joystick has got you covered. And at an affordable price, it's a no-brainer for any serious game developer. So why wait? Download the Easy Virtual Joystick for GameMaker LTS 2022 now and take your game to the next level!
 
 Integrating the Easy Virtual Joystick into your GameMaker project is a breeze. With just a few lines of code, you can create a virtual joystick controller object and use it to control your game. Here's an example:
